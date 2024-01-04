@@ -6,3 +6,6 @@ I
 templates/deployment.yaml,c\4\c4d1b3e8c0326ad0a803a3f2e1467107af5d0027
 ;
 values.yaml,4\c\4c52de710ca63f8e421beb30f9831599c772115c
+:
+
+index.yaml,f\9\f98e8d037165e6a7d0b8eb2ced27f41f9a75d0b9
