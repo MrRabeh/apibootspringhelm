@@ -9,3 +9,7 @@ I
 :
 
 index.yaml,f\9\f98e8d037165e6a7d0b8eb2ced27f41f9a75d0b9
+L
+.github/workflows/static.yml,8\7\876bb641634ea1c1dc424f8fe842defb5bd2ac62
+?
+docs/index.html,8\c\8c0d6b0dca5817118d2f528acb81b643d000c69a
