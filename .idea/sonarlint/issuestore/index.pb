@@ -1,0 +1,8 @@
+
+:
+
+Chart.yaml,0\7\070987ecb965f56e370aa3d91765eaee0303273c
+I
+templates/deployment.yaml,c\4\c4d1b3e8c0326ad0a803a3f2e1467107af5d0027
+;
+values.yaml,4\c\4c52de710ca63f8e421beb30f9831599c772115c
